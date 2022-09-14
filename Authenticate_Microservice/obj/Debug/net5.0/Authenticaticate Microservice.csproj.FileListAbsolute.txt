@@ -1,0 +1,116 @@
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\appsettings.json
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\Authenticaticate Microservice.exe
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\Authenticaticate Microservice.deps.json
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\Authenticaticate Microservice.runtimeconfig.json
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\Authenticaticate Microservice.runtimeconfig.dev.json
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\Authenticaticate Microservice.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\ref\Authenticaticate Microservice.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\Authenticaticate Microservice.pdb
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\log4net.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\obj\Debug\net5.0\Authenticaticate Microservice.csproj.AssemblyReference.cache
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\obj\Debug\net5.0\Authenticaticate Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\obj\Debug\net5.0\Authenticaticate Microservice.AssemblyInfoInputs.cache
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\obj\Debug\net5.0\Authenticaticate Microservice.AssemblyInfo.cs
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\obj\Debug\net5.0\Authenticaticate Microservice.csproj.CoreCompileInputs.cache
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\obj\Debug\net5.0\Authenticaticate Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\obj\Debug\net5.0\Authenticaticate Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\obj\Debug\net5.0\staticwebassets\Authenticaticate Microservice.StaticWebAssets.Manifest.cache
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\obj\Debug\net5.0\staticwebassets\Authenticaticate Microservice.StaticWebAssets.xml
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\obj\Debug\net5.0\scopedcss\bundle\Authenticaticate Microservice.styles.css
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\obj\Debug\net5.0\Authenticaticate Microservice.RazorTargetAssemblyInfo.cache
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\obj\Debug\net5.0\Authenticaticate Microservice.csproj.CopyComplete
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\obj\Debug\net5.0\Authenticaticate Microservice.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\obj\Debug\net5.0\ref\Authenticaticate Microservice.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\obj\Debug\net5.0\Authenticaticate Microservice.pdb
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticaticate Microservice\obj\Debug\net5.0\Authenticaticate Microservice.genruntimeconfig.cache
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\appsettings.json
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\Authenticaticate Microservice.exe
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\Authenticaticate Microservice.deps.json
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\Authenticaticate Microservice.runtimeconfig.json
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\Authenticaticate Microservice.runtimeconfig.dev.json
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\Authenticaticate Microservice.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\ref\Authenticaticate Microservice.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\Authenticaticate Microservice.pdb
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\log4net.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.csproj.AssemblyReference.cache
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.AssemblyInfoInputs.cache
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.AssemblyInfo.cs
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.csproj.CoreCompileInputs.cache
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\obj\Debug\net5.0\staticwebassets\Authenticaticate Microservice.StaticWebAssets.Manifest.cache
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\obj\Debug\net5.0\staticwebassets\Authenticaticate Microservice.StaticWebAssets.xml
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\obj\Debug\net5.0\scopedcss\bundle\Authenticaticate Microservice.styles.css
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.RazorTargetAssemblyInfo.cache
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.csproj.CopyComplete
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\obj\Debug\net5.0\ref\Authenticaticate Microservice.dll
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.pdb
+C:\Users\2146161\OneDrive - Cognizant\Desktop\FSE\MFPE\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.genruntimeconfig.cache
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\appsettings.json
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\Authenticaticate Microservice.exe
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\Authenticaticate Microservice.deps.json
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\Authenticaticate Microservice.runtimeconfig.json
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\Authenticaticate Microservice.runtimeconfig.dev.json
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\Authenticaticate Microservice.dll
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\ref\Authenticaticate Microservice.dll
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\Authenticaticate Microservice.pdb
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\log4net.dll
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.csproj.AssemblyReference.cache
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.AssemblyInfoInputs.cache
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.AssemblyInfo.cs
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.csproj.CoreCompileInputs.cache
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\obj\Debug\net5.0\staticwebassets\Authenticaticate Microservice.StaticWebAssets.Manifest.cache
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\obj\Debug\net5.0\staticwebassets\Authenticaticate Microservice.StaticWebAssets.xml
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\obj\Debug\net5.0\scopedcss\bundle\Authenticaticate Microservice.styles.css
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.RazorTargetAssemblyInfo.cache
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.csproj.CopyComplete
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.dll
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\obj\Debug\net5.0\ref\Authenticaticate Microservice.dll
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.pdb
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\obj\Debug\net5.0\Authenticaticate Microservice.genruntimeconfig.cache
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\2146262\OneDrive - Cognizant\Desktop\Retail Banking\Authenticate_Microservice\bin\Debug\net5.0\Moq.dll
